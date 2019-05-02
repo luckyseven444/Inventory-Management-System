@@ -1,0 +1,11 @@
+/*.my_custom:nth-child(n):not(:last-child) table tr td{*/
+    /*background: lightskyblue;*/
+/*}*/
+
+.my_custom table {
+    background: lightskyblue;
+}
+
+/*.my_custom td:nth-last-of-type(n){ color:#a94442}*/
+
+.custom_input{}
