@@ -33,7 +33,7 @@
         <div class="left navside indigo-900 dk" layout="column">
             <div class="navbar navbar-md no-radius">
                 <div>
-                    <a class="navbar-brand" href="{{URL::to('home')}}">
+                    <a class="navbar-brand" href="{{URL::to('/')}}">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24">
                             <path d="M 4 4 L 44 4 L 44 44 Z" fill="#009688">
                             </path>
