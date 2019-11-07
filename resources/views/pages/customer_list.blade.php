@@ -86,7 +86,6 @@
                     </li>
                 </ul>
                 <!-- / navbar right -->
-
             </div>
         </div>
         <div class="padding"></div>
